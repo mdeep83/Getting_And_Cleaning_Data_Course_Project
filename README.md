@@ -2,7 +2,7 @@
 
 Instructions to reproduce the data cleanup performed - 
 
-Step 1: Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Step 1: Download the file (data set) https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Step 2: Unzip the data set into your R working directory. There should be a folder named "UCI HAR Dataset" in your working directory.
 
